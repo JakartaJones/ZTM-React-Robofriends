@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ZTM-React-Robofriends/static/css/main.09d52cd5.chunk.css",
+    "main.js": "/ZTM-React-Robofriends/static/js/main.2e5dd57c.chunk.js",
+    "main.js.map": "/ZTM-React-Robofriends/static/js/main.2e5dd57c.chunk.js.map",
+    "runtime-main.js": "/ZTM-React-Robofriends/static/js/runtime-main.d8502c9d.js",
+    "runtime-main.js.map": "/ZTM-React-Robofriends/static/js/runtime-main.d8502c9d.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ZTM-React-Robofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.76453558.chunk.js": "/ZTM-React-Robofriends/static/js/2.76453558.chunk.js",
+    "static/js/2.76453558.chunk.js.map": "/ZTM-React-Robofriends/static/js/2.76453558.chunk.js.map",
+    "index.html": "/ZTM-React-Robofriends/index.html",
+    "precache-manifest.ad06595b0596c0f4d000f498056dcdca.js": "/ZTM-React-Robofriends/precache-manifest.ad06595b0596c0f4d000f498056dcdca.js",
+    "service-worker.js": "/ZTM-React-Robofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ZTM-React-Robofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.09d52cd5.chunk.css.map": "/ZTM-React-Robofriends/static/css/main.09d52cd5.chunk.css.map",
+    "static/js/2.76453558.chunk.js.LICENSE.txt": "/ZTM-React-Robofriends/static/js/2.76453558.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8502c9d.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.76453558.chunk.js",
+    "static/css/main.09d52cd5.chunk.css",
+    "static/js/main.2e5dd57c.chunk.js"
+  ]
+}
